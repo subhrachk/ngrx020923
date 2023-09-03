@@ -1,0 +1,17 @@
+.mdc-card {
+    text-align: center;
+    width: 60%;
+}
+
+.center {
+    margin: auto;
+    width: 60%;
+  }
+
+mat-card-header {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
